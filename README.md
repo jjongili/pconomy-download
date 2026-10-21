@@ -1,13 +1,10 @@
 # 프코노미 다운로드
 
-[최신 배포판 다운로드](https://github.com/jjongili/pconomy-download/releases/latest)에서 필요한 Windows 실행파일을 받으세요.
+[최신 배포판 다운로드](https://github.com/jjongili/pconomy-download/releases/latest)에서 Windows 실행파일을 받으세요.
 
-| 실행파일 | 용도 |
-| --- | --- |
-| `pconomy-setup-v*.exe` | 무료 초기 설정판 |
-| `pconomy-operations-v*.exe` | 운영판 |
+배포 파일은 **`pconomy-operations-v*.exe` 하나**입니다. 여러 스마트스토어의 초기 설정(계정·공지·쿠폰·노출요소·반품 문의)과 이후 운영 작업을 한 프로그램에서 처리합니다.
 
-두 판은 별도의 활성화 코드가 필요합니다. 코드는 배포자에게 개별적으로 받으며 무료판 코드는 운영판에서 사용할 수 없습니다.
+사용하려면 운영판 활성화 코드가 필요합니다. 코드는 배포자에게 개별적으로 받으세요.
 
 업데이트는 자동 설치되지 않습니다. 새 버전이 공지되면 위 페이지에서 새 EXE를 받아 실행하세요. 저장된 계정·로그인 정보는 EXE 밖의 `%APPDATA%\PkonomyClient`에 보관되어 버전을 바꿔도 그대로 읽습니다.
 
